@@ -17,6 +17,10 @@ GitFind é uma aplicação React para buscar perfis de usuários no GitHub e exi
 
 <br>
 
+# Acessar o site da Aplicação
+- link: https://git-find-flax-five.vercel.app/
+<br>
+
 # Como Executar o Projeto
 
 ### Clone o Repositório
