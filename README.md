@@ -10,7 +10,7 @@ GitFind é uma aplicação React para buscar perfis de usuários no GitHub e exi
 - Interface simples e responsiva.
 
 
-# Imagem do Aplicativo
+# Imagem da Aplicação
 <br>
 
 ![Interface do Projeto](img.png)
